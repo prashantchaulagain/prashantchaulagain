@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Prashant.
+- 👀 I’m interested in learning forever.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on any project that can contribute to welfare of beings.
+- 📫 You can reach me from https://ux-qode.com
